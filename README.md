@@ -1,6 +1,6 @@
 # cs_assign1
 
-## example of using python decorator to augment a function
+## NEW HEADER 1
 ```python
 def main():
 
@@ -22,6 +22,6 @@ def increment_by_one(num):
 main()
 ```
 
-### and here is a picture of Masha!
+### NEW HEADER 2
 ![A black cat sitting next to a cat tree](https://github.com/user-attachments/assets/27c416a9-3299-4f80-a0d2-08d68ef0f438)
 
