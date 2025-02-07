@@ -1,8 +1,9 @@
 # cs_assign1
 
 ## example of using python decorator to augment a function
-<code>
+```python
 def main():
+
     number = 2
     new_number = increment_by_one(number)
     print('Original number:', number)
@@ -19,7 +20,7 @@ def increment_by_one(num):
     return num + 1
 
 main()
-</code>
+```
 
 ### some content again!
 ![Alt text](image_url) i want to add cat owl 
