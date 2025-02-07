@@ -22,5 +22,6 @@ def increment_by_one(num):
 main()
 ```
 
-### some content again!
-![Alt text](image_url) i want to add cat owl 
+### and here is a picture of Masha!
+![A black cat sitting next to a cat tree](https://github.com/user-attachments/assets/27c416a9-3299-4f80-a0d2-08d68ef0f438)
+
