@@ -1,9 +1,8 @@
 # cs_assign1
 
-## some more content
+## example of using python decorator to augment a function
 <code>
 def main():
-
     number = 2
     new_number = increment_by_one(number)
     print('Original number:', number)
